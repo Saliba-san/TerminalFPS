@@ -33,6 +33,6 @@ You will probably need to resize your terminal font-size or window-size to match
 
 ## Some C O O L images
 
-![first print](print/1.png?raw=true)
-![second print](print/2.png?raw=true)
+![first print](/print/1.png?raw=true)
+![second print](/print/2.png?raw=true)
 
