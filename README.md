@@ -5,21 +5,17 @@ This project is an implementation for ncurses of a FPS that runs on the terminal
 ## Controls
 
 ### Movement
-w and s -> horizontal movement
-
-q and e -> strafing in the vertical axis
-
-a and d -> rotating the player
+* w and s -> horizontal movement
+* q and e -> strafing in the vertical axis
+* a and d -> rotating the player
 
 ### Godlike Controls
-Left and Right (arrow-keys) -> move walls of a row
-
-Down and Up (arrow-keys) -> select row
+* Left and Right (arrow-keys) -> move walls of a row
+* Down and Up (arrow-keys) -> select row
 
 ### Exit
-o -> exits the game
-
-get hit by a wall while moving it -> exits the game
+* o -> exits the game
+* get hit by a wall while moving it -> exits the game
 
 ## Parameters
 
