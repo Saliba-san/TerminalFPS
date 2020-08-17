@@ -1,20 +1,24 @@
 # Terminal-textbased Oldschool FPS
 
-This project is an implementation for ncurses of a FPS that runs on the terminal, all rendered in text (ascii + UTF-8). It's highly based on the video from javidx9, the OneLoneConder (https://www.youtube.com/watch?v=xW8skO7MFYw).
+This project is an implementation for ncurses of a FPS that runs on the terminal, all rendered in text (ascii + UTF-8). It's a GNU/Linux port of the one in this video from javidx9, the OneLoneCoder (https://www.youtube.com/watch?v=xW8skO7MFYw).
 
 ## Controls
 
 ### Movement
 w and s -> horizontal movement
+
 q and e -> strafing in the vertical axis
+
 a and d -> rotating the player
 
 ### Godlike Controls
 Left and Right (arrow-keys) -> move walls of a row
+
 Down and Up (arrow-keys) -> select row
 
 ### Exit
 o -> exits the game
+
 get hit by a wall while moving it -> exits the game
 
 ## Parameters
